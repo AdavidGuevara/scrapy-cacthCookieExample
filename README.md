@@ -1,0 +1,1 @@
+# Capturar una cookie con scrapy.
