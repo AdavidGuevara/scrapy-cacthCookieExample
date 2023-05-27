@@ -1,1 +1,1 @@
-# Capturar una cookie con scrapy.
+# Example of capturing a cookie with scrapy.
